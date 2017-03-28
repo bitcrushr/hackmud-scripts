@@ -1,2 +1,2 @@
 # hackmud-scripts
-A compilation of hackMUD scripts and content
+This is a compilation of my hacmud scripts / content.
